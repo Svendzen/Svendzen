@@ -27,8 +27,3 @@ I'm eager to share them once they're finalized and grades have been released in 
 
 - **[Blackjack](https://github.com/Svendzen/Blackjack)** Made this while learning C#, Console based w/ a menu-driven interface and a limited text-based GUI.
 - **[Study Flashcards](https://github.com/Svendzen/study-flashcards)** Lightweight application that allows students to quickly create and study flashcards.
-
-
-### 📫 How to Reach Me
-
-- **LinkedIn:** [linkedin.com/in/johan-svendsen-dev](https://www.linkedin.com/in/johan-svendsen-dev/)
