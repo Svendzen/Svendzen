@@ -16,13 +16,11 @@ I'm a passionate Information Technology student specializing in programming, wit
   
 #### **Year 3 Projects**
 
-- **Work in Progress! 🛠️** 
-  - *I'm currently developing some exciting projects as part of my final year studies. 
-I'm eager to share them once they're finalized and grades have been released in the coming months.*
+- **[DevOps & Cloud - Exam](https://github.com/Svendzen/DevOpsExam2024):** AWS, Terraform, Java, Python - Individual
+- **[Digital Math Learning Platform - Exam](https://github.com/Svendzen/MathLearningPlatform):** Java, Spring Boot, React, PostgreSQL - Individual
 
-<!--
-- **[Project Name](link-to-repo):** 
--->
+ 
+
 #### **Personal Projects**
 
 - **[Blackjack](https://github.com/Svendzen/Blackjack)** Made this while learning C#, Console based w/ a menu-driven interface and a limited text-based GUI.
